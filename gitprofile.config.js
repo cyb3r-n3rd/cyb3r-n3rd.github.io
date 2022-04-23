@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'cyb3r-n3rd', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,75 +11,69 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'shivam413',
+    twitter: 'cyb3r_n3rd',
     facebook: '',
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    medium: 'cyb3r-n3rd',
+    dev: '',
+    website: 'https://cyb3r-n3rd.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'v.shivam1996@gmail.com',
   },
   skills: [
+     'Pentesting',
+    'Hardware',
+    'Forensics',
+    'Mobile',
     'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
     'MySQL',
     'Git',
     'Docker',
-    'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
+   
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
+      company: 'C3i Hub - IIT Kanpur',
+      position: 'Security Assessment Engineer',
+      from: 'March 2021',
       to: 'Present',
     },
     {
-      company: 'Orangetoolz',
-      position: 'Jr. Full Stack Engineer',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Bulwark CyberX LLP',
+      position: 'Cyber Security Intern',
+      from: 'Feb 2020',
+      to: 'August 2020',
     },
     {
-      company: 'Techvillage',
-      position: 'Jr. Software Engineer',
+      company: 'Cyber Cell - U.P.Police',
+      position: 'Cyber Forensics Intern',
       from: 'January 2019',
-      to: ' June 2019',
+      to: ' Feburary 2019',
     },
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
+      institution: 'Pranveer Singh Institute Of Technology',
+      degree: 'Bachelor of Technology',
       from: '2015',
       to: '2019',
     },
     {
-      institution: 'Cantonment College, Jessore',
+      institution: 'Bishop West Cott School',
       degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
+      from: '2013',
+      to: '2015',
     },
-    {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
-    },
-  ],
+      ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn',
+    username: 'cyb3r-n3rd',
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
